@@ -2,7 +2,11 @@ This web application was completed as a second-year second semester university p
 
 
 Technologies Used: 
-MERN Stack,Material UI,GitHub 
+MERN Stack
+Material UI
+GitHub & Gihub desktop
+Html/css/java script
+
 Achievements: Successfully deployed the application
 
 Related assigment document our Project
